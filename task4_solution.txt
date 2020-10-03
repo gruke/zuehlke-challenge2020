@@ -1,0 +1,5 @@
+Text gaaaanz gross machen!
+
+17 Kreis 38 Komma 385 Gänsefüessli N      63 Kreis 15 Komma 100 Gänsefüessli W
+
+Input: 17.38.38.5N 63.15.10.0W
